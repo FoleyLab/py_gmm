@@ -1,6 +1,5 @@
 # py_gmm
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/gevero/py_gmm)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FoleyLab/py_gmm/HEAD)
 
 <img src="https://github.com/gevero/py_gmm/blob/master/images/array.png" width="600">
 
